@@ -1,0 +1,13 @@
+{
+  "name": "Intermed",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "handlebars": "*",
+    "mysql": "^2.8.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
